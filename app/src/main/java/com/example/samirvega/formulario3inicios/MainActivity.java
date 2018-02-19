@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     TextView TextoaParueba1,TextoaParueba2,TextoaParueba3;
     EditText entrada1,entrada2;
     @Override
+    //practica
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
