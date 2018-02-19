@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulario3Inicios</string>
+    <string name="saludo1">Hola Mundo</string>
+    <string name="saludo2">Hola mundo cruel :( </string>
+    <string name="saludo3">saludos terricolas</string>
+    <string name="peticion1">Usuario:</string>
+    <string name="peticion2">Contraseña:</string>
+
+</resources>
